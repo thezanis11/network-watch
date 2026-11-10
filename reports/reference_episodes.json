@@ -1,0 +1,5942 @@
+[
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 16.794748,
+    "end": 16.794748,
+    "flows": 1,
+    "detected": false,
+    "first_detection_delay_seconds": null
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 2202.857234,
+    "end": 4767.985888,
+    "flows": 128,
+    "detected": true,
+    "first_detection_delay_seconds": 33.86922600000025
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 5096.902743000001,
+    "end": 7661.876677,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.74464099999932
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 7990.856710999999,
+    "end": 10556.578702,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 34.44248200000038
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 10885.507773,
+    "end": 13456.227532,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 39.50064100000054
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 13785.256023,
+    "end": 16350.78918,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 34.274059000001216
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 16679.754111000002,
+    "end": 19244.760219,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.836952999998175
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 19573.704322,
+    "end": 22138.651322,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.81754000000001
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 22467.607887,
+    "end": 25032.621978,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.754392999999254
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 25361.506382,
+    "end": 27926.632954,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.75716900000043
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 28255.555990999997,
+    "end": 30820.493355,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.7787410000019
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 31149.40761,
+    "end": 33714.374945,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.70744200000263
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 34043.254431,
+    "end": 36608.054626,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.6810719999994
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 36937.008233,
+    "end": 39502.336583,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.817864999997255
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 39831.305455999995,
+    "end": 42396.257282,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.67179900001065
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 42725.203292,
+    "end": 45290.578727,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.67509200000495
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 45619.572716,
+    "end": 48184.579431,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.76683600000251
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 48513.503133,
+    "end": 51078.970957,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 34.24856700000237
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 51407.954317,
+    "end": 53972.871787,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.64759199999389
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 54301.804106999996,
+    "end": 56866.70244,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.698708000003535
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 57195.608928,
+    "end": 59760.813682,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 34.0051220000023
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 60089.754798,
+    "end": 62654.834588,
+    "flows": 124,
+    "detected": true,
+    "first_detection_delay_seconds": 33.77996499999426
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 62983.754910999996,
+    "end": 65549.406389,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 34.41199800000322
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 65878.352815,
+    "end": 68443.927332,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 34.375308000002406
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 68772.852883,
+    "end": 71337.888821,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.81645499999286
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 71726.354506,
+    "end": 74291.385394,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.800931999998284
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 74679.855293,
+    "end": 77245.0321,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.86675600000308
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 77633.60562199999,
+    "end": 80199.118696,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 34.343963000021176
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 80587.605506,
+    "end": 83152.966567,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 34.21162199998798
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 83481.857161,
+    "end": 86047.127503,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.9602149999846
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 86376.101807,
+    "end": 88941.238797,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.92689599998994
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 89270.25765099999,
+    "end": 91835.419223,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.962444000004325
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 92164.350821,
+    "end": 94729.270159,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.77994300000137
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 95058.255574,
+    "end": 97623.23108,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.7761060000048
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 98011.80609,
+    "end": 100577.348048,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 34.41292099999555
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 100965.803979,
+    "end": 103531.004972,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.99162299999443
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 103919.455191,
+    "end": 106485.763148,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 35.078796999994665
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 106874.257975,
+    "end": 109439.600591,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 34.18343499999901
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 109828.106852,
+    "end": 112393.026559,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.750502000009874
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 112781.505688,
+    "end": 115346.332995,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.707866999990074
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 115734.807372,
+    "end": 118299.829171,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.832917000007
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 118688.30743,
+    "end": 121253.306333,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.868834999986575
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 121641.75017,
+    "end": 124206.771947,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.81297800000175
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 124595.25638,
+    "end": 127160.358837,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.89303399999335
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 127548.856566,
+    "end": 130125.952706,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.869312999988324
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 130514.403387,
+    "end": 133079.358798,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.766282000011415
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 133467.905821,
+    "end": 136038.383944,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.82026500001666
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 136426.85747400002,
+    "end": 138991.830181,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.69322699998156
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 139320.801997,
+    "end": 141885.78051,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.83972799999174
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 142214.75019199998,
+    "end": 144779.721879,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.752046000008704
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 145108.650906,
+    "end": 147676.646823,
+    "flows": 125,
+    "detected": true,
+    "first_detection_delay_seconds": 33.73196400000597
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 148005.604109,
+    "end": 150570.587825,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.72367499998654
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 150899.55754799998,
+    "end": 153464.638463,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.7411200000206
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 153793.55930899997,
+    "end": 156358.6094,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.79094700003043
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 156687.602129,
+    "end": 159252.593458,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.908884000004036
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 159581.502544,
+    "end": 162146.581589,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.81951100000879
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 162475.601111,
+    "end": 165040.61231,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.751963999995496
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 165369.552562,
+    "end": 167934.543682,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.78090800001519
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 168263.50242099998,
+    "end": 170828.543899,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.76213700004155
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 171157.510115,
+    "end": 173724.918413,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 36.17903599998681
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 174053.858787,
+    "end": 176618.869456,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.801382999983616
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 176947.743871,
+    "end": 179514.022049,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 34.96815400000196
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 179842.996658,
+    "end": 182407.892215,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.736830000038026
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 182736.891018,
+    "end": 185301.863893,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.81311200000346
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 185630.83928299998,
+    "end": 188195.874519,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.88574800002971
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 188524.84459700002,
+    "end": 191089.885437,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.801118999981554
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 191418.893398,
+    "end": 193983.906554,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.80320799999754
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 194312.84292300002,
+    "end": 196877.826678,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.75441299995873
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 197206.74149800002,
+    "end": 199771.727588,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.81707499996992
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 200100.743366,
+    "end": 202665.66874,
+    "flows": 124,
+    "detected": true,
+    "first_detection_delay_seconds": 33.7763729999715
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 202994.543919,
+    "end": 205559.419161,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.7159850000171
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 205888.346727,
+    "end": 208453.230014,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.74400700000115
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 208782.142424,
+    "end": 211347.160474,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.868994000018574
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 211676.242755,
+    "end": 214241.262115,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.8100689999701
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 214570.143102,
+    "end": 217135.112492,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.85041400001501
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 217464.04239000002,
+    "end": 220030.856313,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 35.5741079999716
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 220359.890066,
+    "end": 222924.877148,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.727246000024024
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 223253.8395,
+    "end": 225818.9381,
+    "flows": 124,
+    "detected": true,
+    "first_detection_delay_seconds": 33.80899499999941
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 226147.841128,
+    "end": 228712.789265,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.778083000011975
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 229041.691653,
+    "end": 231606.639286,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.79833200003486
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 231935.540459,
+    "end": 234500.510084,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.78014699998312
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 234829.38943799998,
+    "end": 237394.801439,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 34.19254300004104
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 237723.789076,
+    "end": 240288.712415,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.693897999997716
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 240617.690021,
+    "end": 243182.762906,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 33.873780000023544
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 243511.637246,
+    "end": 246077.224854,
+    "flows": 126,
+    "detected": true,
+    "first_detection_delay_seconds": 34.35815800001728
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 246406.13843199998,
+    "end": 249030.721166,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.78784600002109
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 249359.69517,
+    "end": 251984.107574,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.73744599998463
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 252313.04016899999,
+    "end": 254937.583866,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.82906000001822
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 255266.53888399998,
+    "end": 257890.920041,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.716351000010036
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 258219.842634,
+    "end": 260844.296695,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.82908599998336
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 261173.241205,
+    "end": 263797.772906,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.85737199999858
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 264126.63964799995,
+    "end": 266751.630079,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 34.35525800002506
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 267080.545417,
+    "end": 269705.186312,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.83615500002634
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 270034.141601,
+    "end": 272658.56286,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.75685700000031
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 272987.496551,
+    "end": 275612.629984,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 34.4488850000198
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 275941.543421,
+    "end": 278571.134358,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 38.925463999970816
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 278900.091569,
+    "end": 281524.970571,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 34.23413900000742
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 281853.993403,
+    "end": 284478.628089,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.888951000000816
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 284807.543926,
+    "end": 287431.993841,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.76520700001856
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 287760.990309,
+    "end": 290385.409723,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.78522899997188
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 290714.34000100003,
+    "end": 293338.866683,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.73160800000187
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 293667.84368,
+    "end": 296292.222708,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.723935000016354
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 296621.14233099995,
+    "end": 299245.559012,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.761672000051476
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 299574.542556,
+    "end": 302198.905468,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.678217000036966
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 302527.789736,
+    "end": 305152.221863,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.7070019999519
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 305481.14788,
+    "end": 308105.617861,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.794756999996025
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 308434.54690400005,
+    "end": 311058.964534,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.76237299997592
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 311387.944825,
+    "end": 314012.360605,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.70055000000866
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 314341.295369,
+    "end": 316965.756833,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.74683099996764
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 317294.69216,
+    "end": 319919.112913,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.77642700000433
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 320248.044413,
+    "end": 322872.539312,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.71018300001742
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 323201.437738,
+    "end": 325825.915345,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.79320799995912
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 326154.79800099996,
+    "end": 328779.292262,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.739027000032365
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 329108.190427,
+    "end": 331732.788865,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.75262300000759
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 332061.740328,
+    "end": 334686.324743,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.92959499999415
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 335015.243675,
+    "end": 337639.6017,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.72234100004425
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 337968.543749,
+    "end": 340593.278048,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 34.029378000006545
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 340922.19707,
+    "end": 343546.734414,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.8025150000467
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 343875.643318,
+    "end": 346500.140595,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.86268000002019
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 346829.187751,
+    "end": 349453.577043,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.624264000041876
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 349782.593473,
+    "end": 352407.073317,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.74494400003459
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 352736.044366,
+    "end": 355361.261205,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 34.571915000036824
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 355690.194638,
+    "end": 358314.657799,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.79789400001755
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 358643.58794500004,
+    "end": 361268.073236,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.79046599997673
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 361596.944163,
+    "end": 364221.750987,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 34.221595000009984
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 364550.592329,
+    "end": 367175.237089,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.819478999997955
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 367504.19384300004,
+    "end": 370128.633186,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.844789999944624
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 370457.592501,
+    "end": 373082.032976,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.751814000017475
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 373410.943993,
+    "end": 376035.536243,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.82665200001793
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 376364.489257,
+    "end": 378988.892019,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.70809700002428
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 379317.84482,
+    "end": 381942.308675,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.77918700000737
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 382271.246335,
+    "end": 384895.694591,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.7132940000738
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 385224.639042,
+    "end": 387849.77182,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.78733999998076
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 388178.782016,
+    "end": 390803.279237,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.751473999989685
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 391132.288259,
+    "end": 393756.755143,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.80197200004477
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 394085.738013,
+    "end": 396710.232069,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.75886000000173
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 397039.19549699995,
+    "end": 399663.648127,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.72770500002662
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 399992.539642,
+    "end": 402617.064026,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.829968000005465
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 402945.99157,
+    "end": 405571.292088,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 34.575062999967486
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 405900.243416,
+    "end": 408525.27904,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 34.31026000005659
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 408854.190458,
+    "end": 411479.025889,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 34.140503000002354
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 411808.04276,
+    "end": 414432.5024,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.74452599999495
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 414761.441614,
+    "end": 417385.938531,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.78206799994223
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 417714.895557,
+    "end": 420339.294849,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.67437700001756
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 420668.196185,
+    "end": 423292.621505,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.739767999970354
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 423621.541888,
+    "end": 426246.107801,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 33.84046100004343
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 426575.044061,
+    "end": 429199.874923,
+    "flows": 123,
+    "detected": true,
+    "first_detection_delay_seconds": 34.15575800003717
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "(empty)",
+    "start": 429561.291275,
+    "end": 431931.712319,
+    "flows": 117,
+    "detected": true,
+    "first_detection_delay_seconds": 33.79164599993965
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 1904.8289929999999,
+    "end": 2211.7241139999996,
+    "flows": 25,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 2682.50167,
+    "end": 3422.170533,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 4034.842219,
+    "end": 4124.860837,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 4550.934258,
+    "end": 5105.63957,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 5576.462845999999,
+    "end": 6316.051935,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 6928.742765,
+    "end": 7018.761985,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 7444.7744680000005,
+    "end": 8000.289635,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 8471.054669000001,
+    "end": 9210.753774,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 9823.414254000001,
+    "end": 9913.433532,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 10339.516451,
+    "end": 10899.999994,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998863000000711
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 11370.774153,
+    "end": 12110.442892,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 12723.093888,
+    "end": 12813.122916,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 13239.155164,
+    "end": 13794.51391,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998676999999589
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 14265.305435,
+    "end": 15004.994743,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 15617.655365,
+    "end": 15707.684796,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 16133.717161,
+    "end": 16688.58375,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998867000000246
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 17159.387091,
+    "end": 17898.995266,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 18511.656349,
+    "end": 18601.676037,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 19027.697809,
+    "end": 19582.508241,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.999268999999913
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 20053.277363999998,
+    "end": 20792.895836,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 21405.536804,
+    "end": 21495.566179,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 21921.599159,
+    "end": 22476.347150999998,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998304999997345
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 22947.187759,
+    "end": 23686.806928,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 24299.43784,
+    "end": 24389.477394,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 24815.569801,
+    "end": 25370.250705000002,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.99851999999737
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 25841.189135,
+    "end": 26580.797495,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 27193.468908,
+    "end": 27283.488205,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 27709.560912999998,
+    "end": 28264.329531000003,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998147000002064
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 28735.099330999998,
+    "end": 29474.668266,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 30087.349482,
+    "end": 30177.368879,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 30603.44128,
+    "end": 31158.116808000002,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.9985820000001695
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 31628.950928,
+    "end": 32368.529276,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 32981.220145,
+    "end": 33071.239436,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 33497.311876,
+    "end": 34051.930041,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.99920800000109
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 34522.71095,
+    "end": 35262.30969,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 35874.941109,
+    "end": 35964.960591,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 36391.012601,
+    "end": 36945.826373,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998463999996602
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 37416.612616,
+    "end": 38156.520976,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 38769.171650000004,
+    "end": 38859.191373,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 39285.274102,
+    "end": 39839.962177,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 6.008531999999832
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 40310.782652,
+    "end": 41050.412013,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 41663.112496,
+    "end": 41753.132827,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 42179.164674,
+    "end": 42733.870180000005,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 6.009071000000404
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 43205.054867,
+    "end": 43944.833617,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 44557.474544000004,
+    "end": 44647.503547,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 45073.516598999995,
+    "end": 45628.326625,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998003000007884
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 46099.14576399999,
+    "end": 46838.78442,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 47451.435277000004,
+    "end": 47541.46504,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 47967.506939,
+    "end": 48522.743394,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998841000000539
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 48993.517402,
+    "end": 49733.185751,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 50345.856423,
+    "end": 50435.876272,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 50861.918954999994,
+    "end": 51416.595002999995,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998100000004342
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 51887.377501999996,
+    "end": 52627.016409,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 53239.697092,
+    "end": 53329.736997,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 53755.819142,
+    "end": 54310.494386,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.999107000003278
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 54781.259266,
+    "end": 55520.857167,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 56133.518153,
+    "end": 56223.547196,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 56649.649843,
+    "end": 57204.606175999994,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.999074999999721
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 57675.409427,
+    "end": 58414.958319,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 59027.648916,
+    "end": 59117.668724,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 59543.751537,
+    "end": 60098.536317,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998246000002837
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 60569.370553,
+    "end": 61308.989026,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 61921.669913,
+    "end": 62011.689469,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 62437.782309999995,
+    "end": 62993.162766,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998605000007956
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 63463.951649,
+    "end": 64203.600827,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 64816.261981999996,
+    "end": 64906.281277,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 65332.343570000005,
+    "end": 65887.71416799999,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 6.009205999995174
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 66358.49486400001,
+    "end": 67098.152541,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 67710.803832,
+    "end": 67800.833173,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 68226.855306,
+    "end": 68781.65988600001,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998921000005794
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 69252.435507,
+    "end": 69992.093962,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 70604.754166,
+    "end": 70694.773565,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 71120.82659499999,
+    "end": 71735.155431,
+    "flows": 27,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998714000015752
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 72205.952042,
+    "end": 72945.580082,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 73558.230786,
+    "end": 73648.251047,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 74074.333044,
+    "end": 74688.708818,
+    "flows": 27,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998445999997784
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 75159.56872000001,
+    "end": 75899.146691,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 76511.82761400001,
+    "end": 76601.867224,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 77027.970003,
+    "end": 77642.93732900001,
+    "flows": 27,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998008000009577
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 78113.735207,
+    "end": 78853.283797,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 79465.955096,
+    "end": 79555.985052,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 79982.04721,
+    "end": 80596.816477,
+    "flows": 27,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998160999995889
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 81067.572909,
+    "end": 81807.190844,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 82419.842016,
+    "end": 82509.861101,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 82935.91389299999,
+    "end": 83490.80234899999,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 6.008347000009962
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 83961.62302500001,
+    "end": 84701.301902,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 85313.96324200001,
+    "end": 85403.992707,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 85830.044706,
+    "end": 86385.016656,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 6.008814999993774
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 86855.774438,
+    "end": 87595.463403,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 88208.094062,
+    "end": 88298.124294,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 88724.176118,
+    "end": 89279.205051,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.9989130000030855
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 89749.985804,
+    "end": 90489.594114,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 91102.255234,
+    "end": 91192.274774,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 91618.337256,
+    "end": 92173.12408,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998355000003357
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 92643.887133,
+    "end": 93383.515268,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 93996.15600999999,
+    "end": 94086.175176,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 94512.208428,
+    "end": 95067.02328200001,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998034999996889
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 95537.80718799999,
+    "end": 96277.446337,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 96890.116711,
+    "end": 96980.146111,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 97406.17901400001,
+    "end": 98021.206935,
+    "flows": 27,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998356999989483
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 98491.94499,
+    "end": 99231.583583,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 99844.20440399999,
+    "end": 99934.233482,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 100360.286687,
+    "end": 100974.797452,
+    "flows": 27,
+    "detected": true,
+    "first_detection_delay_seconds": 5.99792900000466
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 101445.58156600001,
+    "end": 102185.239832,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 102797.90113799999,
+    "end": 102887.920748,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 103313.942855,
+    "end": 103929.537456,
+    "flows": 27,
+    "detected": true,
+    "first_detection_delay_seconds": 6.002060999991954
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 104400.330315,
+    "end": 105139.938455,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 105752.61916900001,
+    "end": 105842.638965,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 106268.701604,
+    "end": 106883.425609,
+    "flows": 27,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998689999993076
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 107354.20731,
+    "end": 108093.805358,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 108706.446468,
+    "end": 108796.46575,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 109222.53822,
+    "end": 109836.84614499999,
+    "flows": 27,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998626999993576
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 110307.663607,
+    "end": 111047.261586,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 111659.92236899999,
+    "end": 111749.951902,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 112175.944944,
+    "end": 112790.20391,
+    "flows": 27,
+    "detected": true,
+    "first_detection_delay_seconds": 6.008046999995713
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 113260.99855700001,
+    "end": 114000.537777,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 114613.208994,
+    "end": 114703.228134,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 115129.27109899999,
+    "end": 115743.629355,
+    "flows": 27,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998196000015014
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 116214.41560699999,
+    "end": 116954.004184,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 117566.665484,
+    "end": 117656.694877,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 118082.747162,
+    "end": 118697.176496,
+    "flows": 27,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998825999995461
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 119167.951579,
+    "end": 119907.571031,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 120520.22145499999,
+    "end": 120610.241214,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 121036.25403299999,
+    "end": 121650.549006,
+    "flows": 27,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998302000007243
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 122121.36864999999,
+    "end": 122860.997297,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 123473.648363,
+    "end": 123563.677763,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 123989.71995500001,
+    "end": 124604.136026,
+    "flows": 27,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998982999997679
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 125074.93950200001,
+    "end": 125814.573655,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 126427.244654,
+    "end": 126517.273921,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 126943.297003,
+    "end": 127557.72834399999,
+    "flows": 27,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998567000002367
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 128040.559257,
+    "end": 128780.148024,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 129392.809007,
+    "end": 129482.827979,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 129908.880434,
+    "end": 130523.15604399999,
+    "flows": 27,
+    "detected": true,
+    "first_detection_delay_seconds": 5.9990319999924395
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 130993.955686,
+    "end": 131733.574033,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 132346.245046,
+    "end": 132436.264096,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 132862.286887,
+    "end": 133476.721835,
+    "flows": 27,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998607000015909
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 133952.970099,
+    "end": 134692.578409,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 135305.259551,
+    "end": 135395.279033,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 135821.331657,
+    "end": 136435.544125,
+    "flows": 27,
+    "detected": true,
+    "first_detection_delay_seconds": 5.9980520000099204
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 136906.475893,
+    "end": 137646.085315,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 138258.72594799998,
+    "end": 138348.745256,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 138774.757849,
+    "end": 139329.634652,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998935000010533
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 139800.397833,
+    "end": 140540.005543,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 141152.66679800002,
+    "end": 141242.686467,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 141668.728938,
+    "end": 142223.488774,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998360000026878
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 142694.267716,
+    "end": 143433.907231,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 144046.557066,
+    "end": 144136.597285,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 144562.669368,
+    "end": 145117.371343,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.99875400000019
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 145588.16869299999,
+    "end": 146330.801879,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 146943.482779,
+    "end": 147033.501705,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 147459.554611,
+    "end": 148014.313819,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 6.008786999998847
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 148485.11345300003,
+    "end": 149224.792298,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 149837.463635,
+    "end": 149927.492642,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 150353.50556800002,
+    "end": 150908.26571500002,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 6.00865099998191
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 151379.14501,
+    "end": 152118.823645,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 152731.464559,
+    "end": 152821.493968,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 153247.57666000002,
+    "end": 153802.34280699998,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998085999977775
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 154273.145712,
+    "end": 155012.804428,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 155625.465442,
+    "end": 155715.495044,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 156141.537348,
+    "end": 156696.49588600002,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.9984089999925345
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 157167.256633,
+    "end": 157906.876966,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 158519.516054,
+    "end": 158609.535482,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 159035.538213,
+    "end": 159590.31162,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998588999995263
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 160061.07713599998,
+    "end": 160800.755895,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 161413.447162,
+    "end": 161503.486611,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 161929.528871,
+    "end": 162484.342443,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.99865300001693
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 162955.108369,
+    "end": 163694.737088,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 164307.4282,
+    "end": 164397.467516,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 164823.559813,
+    "end": 165378.32264199998,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998859999992419
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 165849.18936000002,
+    "end": 166588.737831,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 167201.398924,
+    "end": 167291.418626,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 167717.48113,
+    "end": 168272.264001,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998648999986472
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 168743.050297,
+    "end": 169482.689104,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 170095.40003999998,
+    "end": 170185.42003,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 170611.483098,
+    "end": 171168.677265,
+    "flows": 29,
+    "detected": true,
+    "first_detection_delay_seconds": 5.99775700000464
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 171639.46490599998,
+    "end": 172379.153093,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 172991.794294,
+    "end": 173081.823783,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 173507.85614900003,
+    "end": 174062.649518,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998571999982232
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 174533.42541,
+    "end": 175273.06407,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 175885.735024,
+    "end": 175975.765198,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 176401.796834,
+    "end": 176957.70027,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.9985539999906905
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 177428.54811399998,
+    "end": 178168.216816,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 178780.87786900002,
+    "end": 178870.917293,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 179296.95944500001,
+    "end": 179851.72187900002,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998912999988534
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 180322.498642,
+    "end": 181062.087466,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 181674.748491,
+    "end": 181764.767983,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 182190.83002599998,
+    "end": 182745.70446,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998697000031825
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 183216.480162,
+    "end": 183956.038768,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 184568.739211,
+    "end": 184658.758584,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 185084.80103,
+    "end": 185639.722552,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.999133000004804
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 186110.530859,
+    "end": 186850.129822,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 187462.780286,
+    "end": 187552.800504,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 187978.82213,
+    "end": 188533.641081,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.9985169999999925
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 189004.381096,
+    "end": 189744.080215,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 190356.751339,
+    "end": 190446.770794,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 190872.84301,
+    "end": 191427.68502399998,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998583999986295
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 191898.462674,
+    "end": 192638.111132,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 193250.75228999997,
+    "end": 193340.772151,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 193766.83402500002,
+    "end": 194321.58731300003,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 6.009038999967743
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 194792.42337399998,
+    "end": 195532.072007,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 196144.693137,
+    "end": 196234.722727,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 196660.734919,
+    "end": 197215.549855,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 6.008455999981379
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 197686.324719,
+    "end": 198425.953036,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 199038.593566,
+    "end": 199128.623408,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 199554.66576200002,
+    "end": 200109.506553,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998835999984294
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 200580.27472,
+    "end": 201319.893601,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 201932.56457299998,
+    "end": 202022.583832,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 202448.606804,
+    "end": 203003.250601,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998322999977972
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 203474.005185,
+    "end": 204213.634294,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 204826.295263,
+    "end": 204916.314497,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 205342.35739,
+    "end": 205897.07978,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998061999998754
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 206367.89645200002,
+    "end": 207107.474761,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 207720.10546700002,
+    "end": 207810.125347,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 208236.167428,
+    "end": 208790.99955500002,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.999124000023585
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 209261.796986,
+    "end": 210001.395673,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 210614.046496,
+    "end": 210704.066166,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 211130.108475,
+    "end": 211685.039602,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998911000002408
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 212155.828524,
+    "end": 212895.366582,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 213508.067736,
+    "end": 213598.107347,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 214024.20953300002,
+    "end": 214578.978738,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.999072999984492
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 215049.73902600002,
+    "end": 215789.287722,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 216401.937986,
+    "end": 216491.968092,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 216918.050124,
+    "end": 217474.612431,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998713999986649
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 217945.38191099997,
+    "end": 218685.050689,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 219297.701572,
+    "end": 219387.721535,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 219813.794016,
+    "end": 220368.609589,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 6.008116999990307
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 220839.423033,
+    "end": 221579.02201,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 222191.712809,
+    "end": 222281.73227,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 222707.775034,
+    "end": 223262.63689999998,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 6.00849500001641
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 223733.463962,
+    "end": 224473.132953,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 225085.784129,
+    "end": 225175.813843,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 225601.875794,
+    "end": 226156.603084,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998913000017637
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 226627.365156,
+    "end": 227367.003692,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 227979.654289,
+    "end": 228069.684153,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 228495.72641899998,
+    "end": 229050.475017,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.9984110000077635
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 229521.27576000002,
+    "end": 230260.854713,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 230873.505531,
+    "end": 230963.534833,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 231389.566988,
+    "end": 231944.308976,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.9986079999944195
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 232415.127045,
+    "end": 233154.725451,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 233767.35564599998,
+    "end": 233857.375347,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 234283.447713,
+    "end": 234838.57155499997,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.9989260000002105
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 235309.377523,
+    "end": 236048.956227,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 236661.617545,
+    "end": 236751.657252,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 237177.749181,
+    "end": 237732.473562,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.99869900001795
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 238203.288785,
+    "end": 238942.927622,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 239555.558322,
+    "end": 239645.587791,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 240071.660035,
+    "end": 240626.554359,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998613999981899
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 241097.319413,
+    "end": 241836.918539,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 242449.60890999998,
+    "end": 242539.628383,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 242965.69082,
+    "end": 243520.992534,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.99880200001644
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 243991.771373,
+    "end": 244731.419848,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 245344.090929,
+    "end": 245434.110317,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 245860.17270700002,
+    "end": 246414.930224,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998865999979898
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 246945.19756,
+    "end": 247684.856403,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 248297.537009,
+    "end": 248387.576768,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 248813.668951,
+    "end": 249368.41731000002,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.999181999999564
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 249898.692698,
+    "end": 250638.292268,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 251250.953504,
+    "end": 251340.973266,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 251767.035193,
+    "end": 252321.860676,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 6.0086170000140555
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 252852.15035799998,
+    "end": 253591.768872,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 254204.480164,
+    "end": 254294.499306,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 254720.54211,
+    "end": 255275.25258099998,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.99865399999544
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 255805.536294,
+    "end": 256545.154993,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 257157.806035,
+    "end": 257247.826282,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 257673.858141,
+    "end": 258228.659707,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998812000005273
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 258758.94345,
+    "end": 259498.541716,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 260111.212601,
+    "end": 260201.231911,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 260627.224252,
+    "end": 261182.085932,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 6.008594999992056
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 261712.369619,
+    "end": 262451.968186,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 263064.63893,
+    "end": 263154.658454,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 263580.710808,
+    "end": 264135.995194,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.999093999969773
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 264666.28653,
+    "end": 265405.845086,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 266018.4859,
+    "end": 266108.505362,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 266534.567911,
+    "end": 267089.368237,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998625000007451
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 267619.68290200003,
+    "end": 268359.341317,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 268972.032219,
+    "end": 269062.052512,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 269488.10441100004,
+    "end": 270042.891071,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 6.0086829999345355
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 270573.168695,
+    "end": 271312.747609,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 271925.398502,
+    "end": 272015.417995,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 272441.491075,
+    "end": 272996.948771,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998172999999952
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 273527.226776,
+    "end": 274266.885192,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 274879.536339,
+    "end": 274969.555311,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 275395.568073,
+    "end": 275955.45968,
+    "flows": 29,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998291999974754
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 276485.739953,
+    "end": 277225.339122,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 277837.999635,
+    "end": 277928.019438,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 278354.09158099996,
+    "end": 278909.320152,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998593000054825
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 279439.597884,
+    "end": 280179.187651,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 280791.856757,
+    "end": 280881.886691,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 281307.918386,
+    "end": 281862.868165,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998707999999169
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 282393.15338800004,
+    "end": 283132.792208,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 283745.46358499996,
+    "end": 283835.492684,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 284261.555578,
+    "end": 284816.29933,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998167999961879
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 285346.59037800005,
+    "end": 286086.208572,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 286698.90937899996,
+    "end": 286788.928987,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 287214.941309,
+    "end": 287769.777377,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.999092000012752
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 288300.056498,
+    "end": 289039.645446,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 289652.29621199996,
+    "end": 289742.315933,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 290168.348316,
+    "end": 290723.056109,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998474999971222
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 291253.332894,
+    "end": 291993.021526,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 292605.692633,
+    "end": 292695.711861,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 293121.774023,
+    "end": 293676.554487,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 6.008862000016961
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 294206.83038,
+    "end": 294946.437644,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 295559.081977,
+    "end": 295649.09789,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 296075.16112,
+    "end": 296629.900864,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998093999980483
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 297160.185453,
+    "end": 297899.764106,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 298512.425167,
+    "end": 298602.454118,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 299028.48686,
+    "end": 299583.211782,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998413999972399
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 300113.481764,
+    "end": 300853.140252,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 301465.80147799995,
+    "end": 301555.821147,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 301981.85332600004,
+    "end": 302536.490715,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998698999930639
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 303066.76813700004,
+    "end": 303806.35641,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 304419.047265,
+    "end": 304509.086972,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 304935.169403,
+    "end": 305489.934394,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.999139000021387
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 306020.204187,
+    "end": 306759.842944,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 307372.49396,
+    "end": 307462.513287,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 307888.54614500003,
+    "end": 308443.29395699996,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998140999989118
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 308973.580616,
+    "end": 309713.179135,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 310325.859965,
+    "end": 310415.879837,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 310841.92221399996,
+    "end": 311396.63979,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998331000038888
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 311926.917407,
+    "end": 312666.605849,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 313279.246707,
+    "end": 313369.275985,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 313795.29803799995,
+    "end": 314350.025294,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.99914800003171
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 314880.313193,
+    "end": 315619.951574,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 316232.62278700003,
+    "end": 316322.651831,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 316748.67457800003,
+    "end": 317303.458878,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 6.008562999952119
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 317833.729036,
+    "end": 318573.327826,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 319185.96851599996,
+    "end": 319275.98801,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 319702.051098,
+    "end": 320256.757711,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.9983919999795035
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 320787.045513,
+    "end": 321526.744082,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 322139.40524500003,
+    "end": 322229.435055,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 322655.466891,
+    "end": 323210.22062800004,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998819000029471
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 323740.492086,
+    "end": 324480.120766,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 325092.80152599997,
+    "end": 325182.821156,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 325608.863736,
+    "end": 326163.527521,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998163999989629
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 326693.812126,
+    "end": 327433.437295,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 328046.08766599995,
+    "end": 328136.127958,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 328562.23978299997,
+    "end": 329116.92812899995,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998799000051804
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 329647.204982,
+    "end": 330386.933508,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 330999.594415,
+    "end": 331089.623936,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 331515.726203,
+    "end": 332070.662649,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998680000018794
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 332600.931633,
+    "end": 333340.559681,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 333953.180577,
+    "end": 334043.200525,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 334469.263201,
+    "end": 335023.969777,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.9983549999888055
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 335554.227297,
+    "end": 336293.826547,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 336906.496751,
+    "end": 336996.526143,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 337422.549735,
+    "end": 337977.55760400003,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.9976129999849945
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 338507.844205,
+    "end": 339247.522885,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 339860.173533,
+    "end": 339950.20358,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 340376.205698,
+    "end": 340930.984942,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998412000015378
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 341461.280866,
+    "end": 342200.879071,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 342813.580102,
+    "end": 342903.59924,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 343329.68207700003,
+    "end": 343884.50939099997,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998810999968555
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 344414.777616,
+    "end": 345154.395956,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 345767.046317,
+    "end": 345857.065796,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 346283.088567,
+    "end": 346837.803595,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998599999991711
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 347368.103019,
+    "end": 348107.771827,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 348720.452739,
+    "end": 348810.47229,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 349236.485173,
+    "end": 349791.325622,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 6.0082519999705255
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 350321.609652,
+    "end": 351061.248744,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 351673.929565,
+    "end": 351763.948481,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 352190.02163699997,
+    "end": 352745.61252,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998491000034846
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 353275.877225,
+    "end": 354015.476041,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 354628.14662200003,
+    "end": 354718.176381,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 355144.208781,
+    "end": 355698.983623,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998842999979388
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 356229.254076,
+    "end": 356968.892592,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 357581.533083,
+    "end": 357671.552607,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 358097.564808,
+    "end": 358652.371226,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 6.008696999982931
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 359182.640287,
+    "end": 359922.268505,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 360534.96979199996,
+    "end": 360624.989402,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 361051.021539,
+    "end": 361606.168938,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998766000033356
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 362136.437626,
+    "end": 362876.025721,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 363488.665989,
+    "end": 363578.685913,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 364004.69821,
+    "end": 364559.401593,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998617000004742
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 365089.683614,
+    "end": 365829.401732,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 366442.09255,
+    "end": 366532.112841,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 366958.144406,
+    "end": 367513.025999,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 6.009132000035606
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 368043.299168,
+    "end": 368782.878296,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 369395.51301299996,
+    "end": 369485.528394,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 369911.58112600003,
+    "end": 370466.33904,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998598999984097
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 370996.644717,
+    "end": 371736.274629,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 372348.925392,
+    "end": 372438.944594,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 372864.957005,
+    "end": 373419.76470400003,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998607000045013
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 373950.04220799997,
+    "end": 374689.731108,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 375302.411476,
+    "end": 375392.431511,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 375818.483627,
+    "end": 376373.183098,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 6.0087039999780245
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 376903.48909600003,
+    "end": 377643.076959,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 378255.73777999997,
+    "end": 378345.76716,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 378771.840005,
+    "end": 379326.616303,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998997999995481
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 379856.87556,
+    "end": 380596.503696,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 381209.14454999997,
+    "end": 381299.173544,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 381725.24616599997,
+    "end": 382279.94968,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.999370000034105
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 382810.24160300003,
+    "end": 383549.889906,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 384162.56091,
+    "end": 384252.580228,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 384678.642534,
+    "end": 385233.42045100004,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.999043999996502
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 385763.687516,
+    "end": 386503.94748,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 387116.637691,
+    "end": 387206.657857,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 387632.719864,
+    "end": 388187.520255,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998695000016596
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 388717.794513,
+    "end": 389457.473918,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 390070.147385,
+    "end": 390160.174161,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 390586.216488,
+    "end": 391141.074682,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998349000001326
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 391671.341504,
+    "end": 392410.969968,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 393023.641215,
+    "end": 393113.660734,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 393539.69322899997,
+    "end": 394094.491056,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998478000052273
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 394624.76731799997,
+    "end": 395364.376434,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 395977.037085,
+    "end": 396067.07699,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 396493.179212,
+    "end": 397047.91405099997,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998963000020012
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 397578.20414,
+    "end": 398317.842698,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 398930.513991,
+    "end": 399020.543452,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 399446.57566000003,
+    "end": 400001.356987,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.999083999951836
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 400531.651081,
+    "end": 401271.249172,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 401883.94052899996,
+    "end": 401973.959617,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 402400.011925,
+    "end": 402955.563062,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998821999994107
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 403485.848751,
+    "end": 404225.456799,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 404838.097762,
+    "end": 404928.136903,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 405354.23949400004,
+    "end": 405909.54727000004,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.999052999948617
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 406439.825628,
+    "end": 407179.423639,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 407792.10465,
+    "end": 407882.133925,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 408308.216877,
+    "end": 408863.322471,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998400999989826
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 409393.591961,
+    "end": 410133.210786,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 410745.881675,
+    "end": 410835.901177,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 411261.983677,
+    "end": 411816.77842499997,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.99853099999018
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 412347.06846499996,
+    "end": 413086.687267,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 413699.328055,
+    "end": 413789.357497,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 414215.440145,
+    "end": 414770.213708,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.9988069999963045
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 415300.48474000004,
+    "end": 416040.173294,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 416652.814446,
+    "end": 416742.844186,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 417168.876314,
+    "end": 417723.555476,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998666999978013
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 418253.841477,
+    "end": 418993.48001,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 419606.140435,
+    "end": 419696.160474,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 420122.243103,
+    "end": 420676.93312500004,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998523999995086
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 421207.217837,
+    "end": 421946.77574,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 422559.476643,
+    "end": 422649.509865,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 423075.568833,
+    "end": 423630.370665,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 6.0020199999562465
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 424160.66379099997,
+    "end": 424900.282734,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 425512.933326,
+    "end": 425602.973516,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 426029.02505,
+    "end": 426584.184747,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 6.008935999998357
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 427114.49071700004,
+    "end": 427854.099466,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 428466.770742,
+    "end": 428556.790676,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 428982.822158,
+    "end": 429570.066956,
+    "flows": 30,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998442999960389
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 430100.353693,
+    "end": 430839.982157,
+    "flows": 21,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 431452.643665,
+    "end": 431542.673855,
+    "flows": 6,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "CC",
+    "start": 431968.715225,
+    "end": 431974.723807,
+    "flows": 2,
+    "detected": true,
+    "first_detection_delay_seconds": 6.008581999980379
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "DNS",
+    "start": 61642.098493,
+    "end": 61648.096968,
+    "flows": 2,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "DNS",
+    "start": 202321.57552800002,
+    "end": 202327.582722,
+    "flows": 2,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-malware-2",
+    "host": "host-82b05bfbdb",
+    "behavior": "DNS",
+    "start": 223609.310864,
+    "end": 223615.309419,
+    "flows": 2,
+    "detected": true,
+    "first_detection_delay_seconds": 5.998554999998305
+  },
+  {
+    "capture": "ctu-idseval-6-malicious-portscan-3",
+    "host": "host-22a9848452",
+    "behavior": "From_Malware",
+    "start": 1768297148.275739,
+    "end": 1768297252.640955,
+    "flows": 131150,
+    "detected": true,
+    "first_detection_delay_seconds": 0.0
+  }
+]

@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "network-watch"
+version = "1.0.0"
+description = "Causal Zeek and Suricata flow analysis, intrusion detection and incident evaluation"
+requires-python = ">=3.11"
+dependencies = ["numpy", "pandas", "scikit-learn", "matplotlib", "joblib"]
+
+[project.scripts]
+network-watch = "network_watch.cli:main"
+
+[tool.setuptools.packages.find]
+include = ["network_watch*"]

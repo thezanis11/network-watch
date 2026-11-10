@@ -1,0 +1,62 @@
+{
+  "declared_in_author_readme": 286704,
+  "actual_parsed_log_rows": 286702,
+  "difference": -2,
+  "captures": [
+    {
+      "capture": "ctu-idseval-6-benign-user-traffic-1",
+      "raw_flows": 35064,
+      "duplicate_uids": 0,
+      "benign": 3227,
+      "malicious": 0,
+      "background": 31837,
+      "purged": 572
+    },
+    {
+      "capture": "ctu-idseval-6-malicious-malware-1",
+      "raw_flows": 90060,
+      "duplicate_uids": 0,
+      "benign": 74942,
+      "malicious": 14795,
+      "background": 323,
+      "purged": 0
+    },
+    {
+      "capture": "ctu-idseval-6-malicious-malware-2",
+      "raw_flows": 28225,
+      "duplicate_uids": 0,
+      "benign": 573,
+      "malicious": 26649,
+      "background": 1003,
+      "purged": 0
+    },
+    {
+      "capture": "ctu-idseval-6-malicious-portscan-1",
+      "raw_flows": 2001,
+      "duplicate_uids": 0,
+      "benign": 0,
+      "malicious": 2001,
+      "background": 0,
+      "purged": 0
+    },
+    {
+      "capture": "ctu-idseval-6-malicious-portscan-2",
+      "raw_flows": 202,
+      "duplicate_uids": 0,
+      "benign": 0,
+      "malicious": 202,
+      "background": 0,
+      "purged": 0
+    },
+    {
+      "capture": "ctu-idseval-6-malicious-portscan-3",
+      "raw_flows": 131150,
+      "duplicate_uids": 0,
+      "benign": 0,
+      "malicious": 131150,
+      "background": 0,
+      "purged": 0
+    }
+  ],
+  "interpretation": "Exact checked source files are authoritative for this run; do not invent missing rows to match documentation."
+}
